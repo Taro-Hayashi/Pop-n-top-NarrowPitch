@@ -85,10 +85,10 @@ ChromeかEdgeでRemapにアクセスしてください。
 https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/tarohayashi/popntop_np
 
 ### VIA用JSON
-- [armors_np.json](https://github.com/Taro-Hayashi/Armors-NarrowPitch/releases/download/0.16.7/popntop_np.json)
+- [popntop_np.json](https://github.com/Taro-Hayashi/Pop-n-top-NarrowPitch/releases/download/0.16.7/popntop_np.json)
 
 ### プレートのデータ
-- [armors_np_plates.zip](https://github.com/Taro-Hayashi/Armors-NarrowPitch/releases/download/0.16.7/armors_np_plates.zip)
+- [popntop_np.zip](https://github.com/Taro-Hayashi/Pop-n-top-NarrowPitch/releases/download/0.16.7/popntop_np.zip)
 
 ### 販売ページ
-- BOOTH https://tarohayashi.booth.pm/items/3430729
+- BOOTH https://tarohayashi.booth.pm/items/3754822
