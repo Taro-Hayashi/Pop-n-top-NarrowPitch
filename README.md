@@ -71,7 +71,7 @@ ChromeかEdgeでRemapにアクセスしてください。
 ![](img/remap2.png)  
 
 ### USBケーブルを左手側に接続する
-
+執筆中
 
 ## そのほか
 
