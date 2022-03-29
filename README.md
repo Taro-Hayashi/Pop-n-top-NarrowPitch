@@ -82,7 +82,7 @@ ChromeかEdgeでRemapにアクセスしてください。
 Remapのファームウェアのページにアクセスしてください。
 - [Pop'n Top NarrowPitch - Remap ](https://remap-keys.app/catalog/1fWEWCmfpZw3S95DBEu1/firmware)
 
-両手側ともファームウェアを更新し、TRRSケーブルで左右を繋いで左手側にUSBケーブルを接続します。
+両手側とも左手側接続用のファームウェアに更新し、TRRSケーブルで左右を繋いで左手側にUSBケーブルを接続します。
 ![](img/remap3.png)
 - [ファームウェアの更新方法](firmware.md)
 
