@@ -71,7 +71,17 @@ ChromeかEdgeでRemapにアクセスしてください。
 ![](img/remap2.png)  
 
 ### USBケーブルを左手側に接続する
-執筆中
+左手用のファームウェアに書き替えます。
+Remapのファームウェアのページにアクセスしてください。
+- Pop'n Top NarrowPitch - Remap https://remap-keys.app/catalog/1fWEWCmfpZw3S95DBEu1/firmware
+
+#### Windows以外のOS
+
+
+#### Widows
+
+
+
 
 ## そのほか
 
