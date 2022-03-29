@@ -22,8 +22,8 @@
 ### キット以外に必要なもの
 |部品名|数|||
 |-|-|-|-|
-|キースイッチ|17|Kailh ロープロファイル|[遊舎工房](https://shop.yushakobo.jp/products/pg1350) / [TALP KEYBOARD](https://talpkeyboard.net/?category_id=620de8df0020fc01abddc60e) / [DailyCraftKeyboard](https://shop.dailycraft.jp/collections/choc-switches)|
-|キーキャップ|17|Kailh ロープロファイル用|[遊舎工房](https://shop.yushakobo.jp/collections/keycaps/For-Choc-v1) / [TALP KEYBOARD](https://talpkeyboard.net/?category_id=623833f723c2aa4779e17298) / [DailyCraftKeyboard](https://shop.dailycraft.jp/collections/choc-keycaps)|
+|キースイッチ|17|Kailh choc V1|[遊舎工房](https://shop.yushakobo.jp/products/pg1350) / [TALP KEYBOARD](https://talpkeyboard.net/?category_id=620de8df0020fc01abddc60e) / [DailyCraftKeyboard](https://shop.dailycraft.jp/collections/choc-switches)|
+|キーキャップ|17|choc V1用で18x17mm以下のもの|[遊舎工房](https://shop.yushakobo.jp/collections/keycaps/For-Choc-v1) / [TALP KEYBOARD](https://talpkeyboard.net/?category_id=623833f723c2aa4779e17298) / [DailyCraftKeyboard](https://shop.dailycraft.jp/collections/choc-keycaps)|
 |TRRSケーブル|1|||
 |Type-Cケーブル|1|||
 
@@ -34,7 +34,6 @@
 |はんだごて|
 |こて先クリーナー（こて台）|
 |鉛入りはんだ|
-|ピンセット|
 |精密ドライバー|
 
 ## キースイッチのはんだ付け
@@ -42,7 +41,7 @@
 ![](img/IMG_6367.jpg)  
 はじめに4隅から取り付けると位置がズレにくいです。  
 ![](img/IMG_6556.jpg)  
-フラックスクリーナーを使う場合は綿棒などに滲みこませてフラックスの付いているところだけを拭いてください。  
+フラックスクリーナーを使う場合は綿棒などに滲みこませてフラックスの付いているところだけを拭いてください。
 表面にフラックスクリーナーが浸透するとアクリルが割れてしまします。
 ![](img/IMG_6399.jpg)  
 TRRSケーブルで左右を繋ぎ、右手側にUSBケーブルを差してキーが入力されるか確認しましょう。
@@ -53,7 +52,7 @@ TRRSケーブルで左右を繋ぎ、右手側にUSBケーブルを差してキ�
 ミドルプレートをスペーサーに通します。
 ![](img/IMG_6567.jpg)  
 ミドルプレート小には種類が3つあるので確認しつつ使ってください。
-![](img/IMG_6853.jpg)  
+![](img/IMG_6835.jpg)  
 バックプレートを平ネジ小でねじ止めしてゴム足を貼ります。
 ![](img/IMG_6713.jpg)  
 キーキャップを付けたら完成です。
@@ -71,10 +70,24 @@ ChromeかEdgeでRemapにアクセスしてください。
 ドラッグアンドドロップでキーマップの変更が終わったら右上のflashボタンを押すと反映されます。  
 ![](img/remap2.png)  
 
-### USBケーブルを左手側に接続する
-
 
 ## そのほか
+
+### USBケーブルを左手側に接続する
+Remapのファームウェアのページにアクセスしてください。
+- [Pop'n Top NarrowPitch - Remap ](https://remap-keys.app/catalog/1fWEWCmfpZw3S95DBEu1/firmware)
+
+両手側ともファームウェアを更新し、TRRSケーブルで左右を繋いで左手側にUSBケーブルを接続します。
+![](img/remap3.png)
+- [ファームウェアの更新方法](firmware.md)
+
+Remapにアクセスしてキーボードを選択し、レイアウトオプションからLeftを選択します。
+- [Remap](https://remap-keys.app/)
+
+![](img/remap4.png)
+
+キーマップをリセットするか、保存されているレイアウトを復元してください。
+![](img/remap5.png)
 
 ### 液タブに乗せる
 付属のフック、ネジ、スペーサーを使います。
@@ -83,13 +96,13 @@ ChromeかEdgeでRemapにアクセスしてください。
 ![](img/IMG_6573.jpg)  
 
 ### ファームウェアのコード
-https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/tarohayashi/armors_np
+https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/tarohayashi/popntop_np
 
 ### VIA用JSON
-- [armors_np.json](https://github.com/Taro-Hayashi/Armors-NarrowPitch/releases/download/0.16.6/armors_np.json)
+- [popntop_np.json](https://github.com/Taro-Hayashi/Pop-n-top-NarrowPitch/releases/download/0.16.7/popntop_np.json)
 
 ### プレートのデータ
-- [armors_np_plates.zip](https://github.com/Taro-Hayashi/Armors-NarrowPitch/releases/download/0.16.6/armors_np_plates.zip)
+- [popntop_np.zip](https://github.com/Taro-Hayashi/Pop-n-top-NarrowPitch/releases/download/0.16.7/popntop_np.zip)
 
 ### 販売ページ
-- BOOTH https://tarohayashi.booth.pm/items/3430729
+- BOOTH https://tarohayashi.booth.pm/items/3754822
