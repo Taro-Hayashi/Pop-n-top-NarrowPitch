@@ -70,20 +70,24 @@ ChromeかEdgeでRemapにアクセスしてください。
 ドラッグアンドドロップでキーマップの変更が終わったら右上のflashボタンを押すと反映されます。  
 ![](img/remap2.png)  
 
+
+## そのほか
+
 ### USBケーブルを左手側に接続する
-左手用のファームウェアに書き替えます。
 Remapのファームウェアのページにアクセスしてください。
 - [Pop'n Top NarrowPitch - Remap ](https://remap-keys.app/catalog/1fWEWCmfpZw3S95DBEu1/firmware)
 
-#### Windows以外のOS
+両手側ともファームウェアを更新し、TRRSケーブルで左右を繋いで左手側にUSBケーブルを接続します。
+![](img/remap3.png)
+- [ファームウェアの更新方法](firmware.md)
 
+Remapにアクセスしてキーボードを選択し、レイアウトオプションからLeftを選択します。
+- [Remap](https://remap-keys.app/)
 
-#### Widows
+![](img/remap4.png)
 
-
-
-
-## そのほか
+キーマップをリセットするか、保存されているレイアウトを復元してください。
+![](img/remap5.png)
 
 ### 液タブに乗せる
 付属のフック、ネジ、スペーサーを使います。
