@@ -97,7 +97,7 @@ Remapにアクセスしてキーボードを選択し、キーマップをリセ
 ### 液タブに乗せる
 同梱のフック、ネジ、スペーサーを使います。
 ![](img/IMG_6571.jpg)  
-液タブの傾斜が高い場合はゴム足を取り両面テープで貼り付けると安定します。
+傾斜が高い場合はゴム足を取り両面テープで貼り付けると安定します。
 ![](img/IMG_6573.jpg)  
 
 ### ファームウェアのコード
@@ -106,7 +106,7 @@ https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/tarohayashi/p
 ### VIA用JSON
 - [popntop_np.json](https://github.com/Taro-Hayashi/Pop-n-top-NarrowPitch/releases/download/0.16.7/popntop_np.json)
 
-### プレートのデータ
+### アクリルプレートのデータ
 - [popntop_np.zip](https://github.com/Taro-Hayashi/Pop-n-top-NarrowPitch/releases/download/0.16.7/popntop_np.zip)
 
 ### 販売ページ
