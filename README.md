@@ -32,10 +32,12 @@
 |TRRSケーブル|1|||
 |Type-Cケーブル|1|||
 #### おすすめ
-キースイッチ [Choc V1 Crystal Silver](https://shop.dailycraft.jp/products/keyswitch_choc_v1_linear?variant=41042928828613)  
-キーキャップその1 [MBK Legend‡ Glow](https://shop.yushakobo.jp/products/2609)  
-キーキャップその2 [Kailhロープロ刻印キーキャップ](https://shop.yushakobo.jp/products/pg1350cap-doubleshot)  
-TRRSケーブル [自作TRRSケーブルキット](https://shop.yushakobo.jp/products/self-made-cable?variant=39623339737249)  
+|部品名|数|
+|-|-|
+|キースイッチ|[Choc V1 Crystal Silver](https://shop.dailycraft.jp/products/keyswitch_choc_v1_linear?variant=41042928828613)  |
+|キーキャップその1|[MBK Legend‡ Glow](https://shop.yushakobo.jp/products/2609)  |
+|キーキャップその2|[Kailhロープロ刻印キーキャップ](https://shop.yushakobo.jp/products/pg1350cap-doubleshot)  |
+|TRRSケーブル|[自作TRRSケーブルキット](https://shop.yushakobo.jp/products/self-made-cable?variant=39623339737249)  |
 
 ### 必要な工具
 |工具名|
