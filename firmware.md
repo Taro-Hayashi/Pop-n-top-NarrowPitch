@@ -5,7 +5,7 @@ USB経由でしか更新ができないので、一度TRRSケーブルを外し�
 
 - [Windows以外の場合](#Windows以外の場合)
 - [Windowsの場合](#Windowsの場合)
-- 
+
 ## Windows以外の場合
 キーボードを接続した状態でRemapのファームウェアのページにアクセスしてください。  
 - [Pop'n Top NarrowPitch - Remap ](https://remap-keys.app/catalog/1fWEWCmfpZw3S95DBEu1/firmware)
