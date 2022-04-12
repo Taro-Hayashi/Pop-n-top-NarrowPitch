@@ -11,7 +11,7 @@ USB経由でしか更新ができないので、一度TRRSケーブルを外し�
 - [Pop'n Top NarrowPitch - Remap ](https://remap-keys.app/catalog/1fWEWCmfpZw3S95DBEu1/firmware)
 
 使用するファームウェアのFLASHを選んでください。  
-![](img/flash.png)  
+![](img/Flash.png)  
 Bootloaderをdftに変更します。  
 ![](img/dfu.png)  
 FLASHを押すとダイアログが出てくるのでキーボード裏面のリセットボタンを押してください。 　
@@ -26,7 +26,7 @@ FLASHを押すとダイアログが出てくるのでキーボード裏面のリ
 - [Pop'n Top NarrowPitch - Remap ](https://remap-keys.app/catalog/1fWEWCmfpZw3S95DBEu1/firmware)
 
 使用するファームウェアのDownloadをクリックしてファームウェアをダウンロードしてください。  
-![](img/download.png)   
+![](img/Download.png)   
 QMK Toolboxのreleaseページから最新版をダウンロードしてインストールください（Betaはおすすめしません）。  
 - [Releases・qmk/qmk_toolbox](https://github.com/qmk/qmk_toolbox/releases)
 
