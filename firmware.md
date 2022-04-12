@@ -28,7 +28,7 @@ QMK Toolboxのreleaseページから最新版をダウンロードしてイン�
 - [Releases・qmk/qmk_toolbox](https://github.com/qmk/qmk_toolbox/releases)
 
 ![](img/release.png)  
-起動したらLocal fileにダウンロードしたファームウェアを指定して、キーボード裏面のリセットボタンを押します。  
+起動したらOpenを押してダウンロードしたファームウェアを指定し、キーボード裏面のリセットボタンを押します。  
 ![](img/qmktoolbox1.png)   
 新しく黄色の文字が出てきたらFlashを押します。  
 ![](img/qmktoolbox2.png)  
