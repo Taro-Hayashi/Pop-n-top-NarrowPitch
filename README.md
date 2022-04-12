@@ -80,7 +80,7 @@ ChromeかEdgeでRemapにアクセスしてください。
 ## そのほか
 
 ### USBケーブルを左手側に接続する
-Remapのファームウェアのページにアクセスしてください。
+Remapにファームウェアがあります。
 - [Pop'n Top NarrowPitch - Remap ](https://remap-keys.app/catalog/1fWEWCmfpZw3S95DBEu1/firmware)
 
 両手側とも左手側接続用のファームウェアに更新し、TRRSケーブルで左右を繋いで左手側にUSBケーブルを接続します。
