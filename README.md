@@ -84,8 +84,9 @@ Remapのファームウェアのページにアクセスしてください。
 - [Pop'n Top NarrowPitch - Remap ](https://remap-keys.app/catalog/1fWEWCmfpZw3S95DBEu1/firmware)
 
 両手側とも左手側接続用のファームウェアに更新し、TRRSケーブルで左右を繋いで左手側にUSBケーブルを接続します。
-![](img/remap3.png)
 - [ファームウェアを更新する方法](firmware.md)
+
+![](img/remap3.png)
 
 Remapにアクセスしてキーボードを選択し、キーマップをリセットするかレイアウトを復元してください。
 - [Remap](https://remap-keys.app/)
