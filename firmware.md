@@ -11,22 +11,21 @@ USB経由でしか更新ができないので、一度TRRSケーブルを外し�
 ![](img/flash.png)  
 Bootloaderをdftに変更します。  
 ![](img/dfu.png)  
-FLASHを押すとダイアログが出てくるのでキーボード裏面のリセットボタンを押してください。  
-  
+FLASHを押すとダイアログが出てくるのでキーボード裏面のリセットボタンを押してください。 　
 ![](img/IMG_6713b.jpg)  
 出てきたAtm32U4DFUを選択して接続します。  
-  
 ![](img/connect.png)  
-更新完了です。上手くいかない場合はWindwosの場合と同様にQMK Toolboxを使ってください。  
+更新が完了したらCLOSEで閉じてください。  
 ![](img/close.png)  
-
+上手くいかない場合はWindwosの場合と同様にQMK Toolboxを使ってください。  
 ## Windowsの場合
 キーボードを接続した状態でRemapのファームウェアのページにアクセスしてください。  
+- https://remap-keys.app/catalog/1fWEWCmfpZw3S95DBEu1/firmware
 
 使用するファームウェアのDownloadをクリックしてファームウェアをダウンロードしてください。  
 ![](img/download.png)   
-QMK Toolboxのreleaseページから最新版をダウンロードしてください（Betaはおすすめしません）。  
-
+QMK Toolboxのreleaseページから最新版をダウンロードしてインストールください（Betaはおすすめしません）。  
+![](img/release.png)  
 起動したらLocal fileにダウンロードしたファームウェアを指定して、キーボード裏面のリセットボタンを押します。  
 ![](img/qmktoolbox1.png)   
 新しく黄色の文字が出てきたらFlashを押します。  
