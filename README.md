@@ -27,8 +27,8 @@
 ### キット以外に必要なもの
 |部品名|数|||
 |-|-|-|-|
-|キースイッチ|17|Kailh choc V1|[遊舎工房](https://shop.yushakobo.jp/products/pg1350) / [TALP KEYBOARD](https://talpkeyboard.net/?category_id=620de8df0020fc01abddc60e) / [DailyCraftKeyboard](https://shop.dailycraft.jp/collections/choc-switches)|
-|キーキャップ|17|choc V1用で18x17mm以下のもの|[遊舎工房](https://shop.yushakobo.jp/collections/keycaps/For-Choc-v1) / [TALP KEYBOARD](https://talpkeyboard.net/?category_id=623833f723c2aa4779e17298) / [DailyCraftKeyboard](https://shop.dailycraft.jp/collections/choc-keycaps)|
+|キースイッチ|50|Kailh choc V1|[遊舎工房](https://shop.yushakobo.jp/products/pg1350) / [TALP KEYBOARD](https://talpkeyboard.net/?category_id=620de8df0020fc01abddc60e) / [DailyCraftKeyboard](https://shop.dailycraft.jp/collections/choc-switches)|
+|キーキャップ|50|choc V1用で18x17mm以下のもの|[遊舎工房](https://shop.yushakobo.jp/collections/keycaps/For-Choc-v1) / [TALP KEYBOARD](https://talpkeyboard.net/?category_id=623833f723c2aa4779e17298) / [DailyCraftKeyboard](https://shop.dailycraft.jp/collections/choc-keycaps)|
 |TRRSケーブル|1|||
 |Type-Cケーブル|1|||
 
@@ -45,11 +45,12 @@
 トッププレートをはさみこみ、キースイッチをはんだ付けします。  
 ![](img/IMG_6367.jpg)  
 はじめに4隅から取り付けると位置がズレにくいです。  
-![](img/IMG_6556.jpg)  
+![](img/IMG_6964.jpg)  
 フラックスクリーナーを使う場合は綿棒などに滲みこませてフラックスの付いているところだけを拭いてください。
 表面にフラックスクリーナーが浸透するとアクリルが割れてしまします。
-![](img/IMG_6399.jpg)  
+![](img/IMG_6556.jpg)  
 TRRSケーブルで左右を繋ぎ、右手側にUSBケーブルを差してキーが入力されるか確認しましょう。
+![](img/IMG_6399.jpg)  
 
 ## プレートの取り付け
 内側のネジ穴15か所（赤丸）にはナベネジ小とスペーサー小、外側のネジ穴12か所（青丸）にはナベネジ中とスペーサー中を取り付けます。
@@ -84,7 +85,7 @@ Remapのファームウェアのページにアクセスしてください。
 
 両手側とも左手側接続用のファームウェアに更新し、TRRSケーブルで左右を繋いで左手側にUSBケーブルを接続します。
 ![](img/remap3.png)
-- [ファームウェアの更新方法](firmware.md)
+- [ファームウェアを更新する方法](firmware.md)
 
 Remapにアクセスしてキーボードを選択し、キーマップをリセットするかレイアウトを復元してください。
 - [Remap](https://remap-keys.app/)
@@ -93,6 +94,9 @@ Remapにアクセスしてキーボードを選択し、キーマップをリセ
 
 レイアウトオプションからLeftを選択します。
 ![](img/remap4.png)
+
+### 片側だけ使う
+左右それぞれにUSB接続側のファームウェアをインストールして使ってください。
 
 ### 液タブに乗せる
 同梱のフック、ネジ、スペーサーを使います。
