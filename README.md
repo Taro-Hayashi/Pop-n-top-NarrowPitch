@@ -31,7 +31,9 @@
 |キーキャップ|50|choc V1用で18x17mm以下のもの|[遊舎工房](https://shop.yushakobo.jp/collections/keycaps/For-Choc-v1) / [TALP KEYBOARD](https://talpkeyboard.net/?category_id=623833f723c2aa4779e17298) / [DailyCraftKeyboard](https://shop.dailycraft.jp/collections/choc-keycaps)|
 |TRRSケーブル|1|||
 |Type-Cケーブル|1|||
-
+※おすすめキーキャップその1
+※おすすめキーキャップその2
+※おすすめTRRSケーブル
 
 ### 必要な工具
 |工具名|
