@@ -31,13 +31,6 @@
 |キーキャップ|50|choc V1用で18x17mm以下のもの|[遊舎工房](https://shop.yushakobo.jp/collections/keycaps/For-Choc-v1) / [TALP KEYBOARD](https://talpkeyboard.net/?category_id=623833f723c2aa4779e17298) / [DailyCraftKeyboard](https://shop.dailycraft.jp/collections/choc-keycaps)|
 |TRRSケーブル|1|||
 |Type-Cケーブル|1|||
-#### おすすめ
-|部品名|数|
-|-|-|
-|キースイッチ|[Choc V1 Crystal Silver](https://shop.dailycraft.jp/products/keyswitch_choc_v1_linear?variant=41042928828613)  |
-|キーキャップその1|[MBK Legend‡ Glow](https://shop.yushakobo.jp/products/2609)  |
-|キーキャップその2|[Kailhロープロ刻印キーキャップ](https://shop.yushakobo.jp/products/pg1350cap-doubleshot)  |
-|TRRSケーブル|[自作TRRSケーブルキット](https://shop.yushakobo.jp/products/self-made-cable?variant=39623339737249)  |
 
 ### 必要な工具
 |工具名|
