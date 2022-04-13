@@ -24,6 +24,27 @@
 |12|ミドルプレート大|2||
 |13|ボトムプレート|2||
 
+||Name|Quantities| |
+|-|-|-|-|
+|1|Main board|1||
+|2|Middle plate #1|1||
+|3|Middle plate #2|1||
+|4|Bottom plate|1||
+|5|Cover plate|1||
+|6|Short screws|4|3mm|
+|7|Middle screws|2|4mm|
+|8|Long screws|6|6mm|
+|9|Short spacers|6|3mm|
+|10|Middle spacers|2|4mm|
+|11|Diodes|13|1N4148|
+|12|Tactile Switches|1||
+|13|Dial Rotary Encoder|1|EC11|
+|14|Knob|1||
+|15|Wheel Rotary Encoders|2|EVQWGD001|
+|16|Rubber feet|6||
+|17|Pro Micro|1||
+|18|Lever Switches|2|Assembled|
+
 ### キット以外に必要なもの
 |部品名|数|||
 |-|-|-|-|
@@ -65,7 +86,7 @@ TRRSケーブルで左右を繋ぎ、右手側にUSBケーブルを差してキ�
 キーキャップを付けたら完成です。
 ![](img/IMG_6576.jpg)  
 
-## キーマップのカスタマイズ
+## Customise
 Access Remap.  
 - Remap https://remap-keys.app/
 
