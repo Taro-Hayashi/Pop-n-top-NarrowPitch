@@ -10,19 +10,19 @@
 ![](img/IMG_6830.jpg)  
 ||Name|Quantities| |
 |-|-|-|-|
-|1|Mainboard|1||
-|2|Small pan head screw|15|2.5mm|
-|3|Middle pan head screw|12|4mm|
-|4|Flat head screw|27|3.5mm|
-|5|Small spacer|15|3mm|
-|6|Middle Spacer|12|4mm|
+|1|Mainboards|2||
+|2|Small pan head screws|15|2.5mm|
+|3|Middle pan head screws|12|4mm|
+|4|Flat head screws|27|3.5mm|
+|5|Small spacers|15|3mm|
+|6|Middle Spacers|12|4mm|
 |7|Rubber feet|12||
-|8|Middle plate #8|4||
-|9|Middle plate #9|4||
-|10|Middle plate #10|4||
-|11|Top plate|2||
-|12|Middle plate|2||
-|13|Bottom plate|2||
+|8|Middle plates #8|4||
+|9|Middle plates #9|4||
+|10|Middle plates #10|4||
+|11|Top plates|2||
+|12|Middle plates|2||
+|13|Bottom plates|2||
 
 ### Additional required
 |Name|Quantities|||
@@ -34,23 +34,22 @@
 
 ## Soldering
 Clip the top plate and solder the key switch.  
-![](img/IMG_6367.jpg)   
+![](img/IMG_6367.jpg)  
 ![](img/IMG_6964.jpg)  
 Do not soak the flux cleaner to avoid breaking the acrylic.  
 ![](img/IMG_6556.jpg)  
-Testing.
+Plug the USB cable into the right hand side.
 ![](img/IMG_6399.jpg)  
 
 ## Assembling
-内側のネジ穴15か所（赤丸）にはナベネジ小とスペーサー小、外側のネジ穴12か所（青丸）にはナベネジ中とスペーサー中を取り付けます。
+Red circle for small pan head screws and small spacers. Blue circle for middle pan head screws and middle spacers
 ![](img/IMG_6560.jpg)  
-ミドルプレートをスペーサーに通します。
+Put the middle plates.
 ![](img/IMG_6567.jpg)  
-ミドルプレート小には種類が3つあるので確認しつつ使ってください。
 ![](img/IMG_6835.jpg)  
-バックプレートを平ネジ小でねじ止めしてゴム足を貼ります。
+Fasten the back plates with flat head screws, then put rubber feet.
 ![](img/IMG_6713.jpg)  
-キーキャップを付けたら完成です。
+Thank you for your time.
 ![](img/IMG_6576.jpg)  
 
 ## Customise
