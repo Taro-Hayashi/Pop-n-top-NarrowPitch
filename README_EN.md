@@ -8,7 +8,7 @@
 ## Contents
 ![](img/IMG_6826.jpg)  
 ![](img/IMG_6830.jpg)  
-||部品名|数| |
+||Name|Quantities| |
 |-|-|-|-|
 |1|Mainboard|1||
 |2|Small pan head screw|15|2.5mm|
@@ -24,23 +24,13 @@
 |12|Middle plate|2||
 |13|Bottom plate|2||
 
-### キット以外に必要なもの
-|部品名|数|||
+### Additional required
+|Name|Quantities|||
 |-|-|-|-|
-|キースイッチ|50|Kailh choc V1|[遊舎工房](https://shop.yushakobo.jp/products/pg1350) / [TALP KEYBOARD](https://talpkeyboard.net/?category_id=620de8df0020fc01abddc60e) / [DailyCraftKeyboard](https://shop.dailycraft.jp/collections/choc-switches)|
-|キーキャップ|50|choc V1用|[遊舎工房](https://shop.yushakobo.jp/collections/keycaps/For-Choc-v1) / [TALP KEYBOARD](https://talpkeyboard.net/?category_id=623833f723c2aa4779e17298) / [DailyCraftKeyboard](https://shop.dailycraft.jp/collections/choc-keycaps)|
-|TRRSケーブル|1|||
-|Type-Cケーブル|1|||
-
-※キーキャップは18x17mm以下の大きさのものが使えます（WRKシリーズ、Kailhロープロ無刻印のクリア色はサイズが大きく使えません）。
-
-### 必要な工具
-|工具名|
-|-|
-|はんだごて|
-|こて先クリーナー（こて台）|
-|鉛入りはんだ|
-|精密ドライバー|
+|Switches|50|Kailh choc V1|[Yushakobo](https://shop.yushakobo.jp/en/products/pg1350)|
+|Keycaps|50|for choc V1|[Yushakobo](https://shop.yushakobo.jp/en/collections/keycaps/For-Choc-v1)|
+|TRRS Cable|1|||
+|Type-C Cable|1|||
 
 ## キースイッチのはんだ付け
 トッププレートをはさみこみ、キースイッチをはんだ付けします。  
