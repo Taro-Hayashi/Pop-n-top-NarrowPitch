@@ -38,7 +38,7 @@ Clip the top plate and solder the key switch.
 ![](img/IMG_6964.jpg)  
 Do not soak the flux cleaner to avoid breaking the acrylic.  
 ![](img/IMG_6556.jpg)  
-Plug the USB cable into the right hand side.
+Testing. Plug the USB cable into the right hand side.
 ![](img/IMG_6399.jpg)  
 
 ## Assembling
