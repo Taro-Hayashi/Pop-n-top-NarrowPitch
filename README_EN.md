@@ -10,40 +10,19 @@
 ![](img/IMG_6830.jpg)  
 ||部品名|数| |
 |-|-|-|-|
-|1|メインボード|1||
-|2|なべネジ小|15|2.5mm|
-|3|なべネジ中|12|4mm|
-|4|平ネジ|27|3.5mm|
-|5|スペーサー小|15|3mm|
-|6|スペーサー中|12|4mm|
-|7|ゴム足|12||
-|8|ミドルプレート小8|4||
-|9|ミドルプレート小9|4||
-|10|ミドルプレート小10|4||
-|11|トッププレート|2||
-|12|ミドルプレート大|2||
-|13|ボトムプレート|2||
-
-||Name|Quantities| |
-|-|-|-|-|
-|1|Main board|1||
-|2|Middle plate #1|1||
-|3|Middle plate #2|1||
-|4|Bottom plate|1||
-|5|Cover plate|1||
-|6|Short screws|4|3mm|
-|7|Middle screws|2|4mm|
-|8|Long screws|6|6mm|
-|9|Short spacers|6|3mm|
-|10|Middle spacers|2|4mm|
-|11|Diodes|13|1N4148|
-|12|Tactile Switches|1||
-|13|Dial Rotary Encoder|1|EC11|
-|14|Knob|1||
-|15|Wheel Rotary Encoders|2|EVQWGD001|
-|16|Rubber feet|6||
-|17|Pro Micro|1||
-|18|Lever Switches|2|Assembled|
+|1|Mainboard|1||
+|2|Small pan head screw|15|2.5mm|
+|3|Middle pan head screw|12|4mm|
+|4|Flat head screw|27|3.5mm|
+|5|Small spacer|15|3mm|
+|6|Middle Spacer|12|4mm|
+|7|Rubber feet|12||
+|8|Middle plate #8|4||
+|9|Middle plate #9|4||
+|10|Middle plate #10|4||
+|11|Top plate|2||
+|12|Middle plate|2||
+|13|Bottom plate|2||
 
 ### キット以外に必要なもの
 |部品名|数|||
