@@ -1,4 +1,4 @@
-# Pop'n Top せまピッチ ビルドガイド
+# Pop'n Top せまピッチ ビルドガイド（[English](https://github.com/Taro-Hayashi/Pop-n-top-NarrowPitch/blob/main/README_EN.md)）
 - [キット内容](#キット内容)
 - [キースイッチのはんだ付け](#キースイッチのはんだ付け)
 - [プレートの取り付け](#プレートの取り付け)
