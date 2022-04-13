@@ -32,18 +32,16 @@
 |TRRS Cable|1|||
 |Type-C Cable|1|||
 
-## キースイッチのはんだ付け
-トッププレートをはさみこみ、キースイッチをはんだ付けします。  
-![](img/IMG_6367.jpg)  
-はじめに4隅から取り付けると位置がズレにくいです。  
+## Soldering
+Clip the top plate and solder the key switch.  
+![](img/IMG_6367.jpg)   
 ![](img/IMG_6964.jpg)  
-フラックスクリーナーを使う場合は綿棒などに滲みこませてフラックスの付いているところだけを拭いてください。
-表面にフラックスクリーナーが浸透するとアクリルが割れてしまします。
+Do not soak the flux cleaner to avoid breaking the acrylic.  
 ![](img/IMG_6556.jpg)  
-TRRSケーブルで左右を繋ぎ、右手側にUSBケーブルを差してキーが入力されるか確認しましょう。
+Testing.
 ![](img/IMG_6399.jpg)  
 
-## プレートの取り付け
+## Assembling
 内側のネジ穴15か所（赤丸）にはナベネジ小とスペーサー小、外側のネジ穴12か所（青丸）にはナベネジ中とスペーサー中を取り付けます。
 ![](img/IMG_6560.jpg)  
 ミドルプレートをスペーサーに通します。
