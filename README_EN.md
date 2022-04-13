@@ -1,11 +1,11 @@
 # Pop'n Top せまピッチ Build Manual（[日本語](https://github.com/Taro-Hayashi/Pop-n-top-NarrowPitch/blob/main/README.md)）
-- [キット内容](#キット内容)
-- [キースイッチのはんだ付け](#キースイッチのはんだ付け)
-- [プレートの取り付け](#プレートの取り付け)
-- [キーマップのカスタマイズ](#キーマップのカスタマイズ)
-- [そのほか](#そのほか)
+- [Contents](#Contents)
+- [Soldering](#Soldering)
+- [Assembling](#Assembling)
+- [Customise](#Customise)
+- [Misc](#Misc)
 
-## キット内容
+## Contents
 ![](img/IMG_6826.jpg)  
 ![](img/IMG_6830.jpg)  
 ||部品名|数| |
@@ -66,54 +66,28 @@ TRRSケーブルで左右を繋ぎ、右手側にUSBケーブルを差してキ�
 ![](img/IMG_6576.jpg)  
 
 ## キーマップのカスタマイズ
-ChromeかEdgeでRemapにアクセスしてください。  
+Access Remap.  
 - Remap https://remap-keys.app/
 
-
+Select the blue button on the left to proceed.  
 ![](img/remap1.png)  
-左を選んで進んでいくとアドレスバーからメッセージが出てキーボードを選択できます。  
 
-
-ドラッグアンドドロップでキーマップの変更が終わったら右上のflashボタンを押すと反映されます。  
+After Drag-and-Drop the keys, press the flash button in the upper right corner.  
 ![](img/remap2.png)  
 
 
-## そのほか
+## Misc
+### Pre-built Firmwares
+https://remap-keys.app/catalog/1fWEWCmfpZw3S95DBEu1/firmware
 
-### USBケーブルを左手側に接続する
-Remapにファームウェアがあります。
-- [Pop'n Top NarrowPitch - Remap ](https://remap-keys.app/catalog/1fWEWCmfpZw3S95DBEu1/firmware)
-
-両手側とも左手側接続用のファームウェアに更新し、TRRSケーブルで左右を繋いで左手側にUSBケーブルを接続します。
-- [ファームウェアを更新する方法](firmware.md)
-
-![](img/remap3.png)
-
-Remapにアクセスしてキーボードを選択し、キーマップをリセットするかレイアウトを復元してください。
-- [Remap](https://remap-keys.app/)
-
-![](img/remap5.png)
-
-レイアウトオプションからLeftを選択します。
-![](img/remap4.png)
-
-### 片側だけ使う
-USB接続側のファームウェアを個別にインストールして使ってください。
-
-### 液タブに乗せる
-同梱のフック、ネジ、スペーサーを使います。
-![](img/IMG_6571.jpg)  
-傾斜が高い場合はゴム足を取り両面テープで貼り付けると安定します。
-![](img/IMG_6573.jpg)  
-
-### ファームウェアのコード
+### Firmware repository
 https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/tarohayashi/popntop_np
 
-### VIA用JSON
+### JSON
 - [popntop_np.json](https://github.com/Taro-Hayashi/Pop-n-top-NarrowPitch/releases/download/0.16.7/popntop_np.json)
 
-### アクリルプレートのデータ
+### Plates data
 - [popntop_np.zip](https://github.com/Taro-Hayashi/Pop-n-top-NarrowPitch/releases/download/0.16.7/popntop_np.zip)
 
-### 販売ページ
+### Store
 - BOOTH https://tarohayashi.booth.pm/items/3754822
