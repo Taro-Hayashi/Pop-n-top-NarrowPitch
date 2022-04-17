@@ -78,3 +78,4 @@ https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/tarohayashi/p
 
 ### Store
 - BOOTH https://tarohayashi.booth.pm/items/3754822
+- Yushakobo https://shop.yushakobo.jp/en/products/4095
