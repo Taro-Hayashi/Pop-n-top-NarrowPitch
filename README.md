@@ -117,3 +117,4 @@ https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/tarohayashi/p
 
 ### 販売ページ
 - BOOTH https://tarohayashi.booth.pm/items/3754822
+- 遊舎工房 https://shop.yushakobo.jp/products/4095
