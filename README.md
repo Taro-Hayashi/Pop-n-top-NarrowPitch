@@ -108,7 +108,7 @@ USB接続側のファームウェアを個別にインストールして使っ�
 ![](img/IMG_6573.jpg)  
 
 ### ファームウェアのコード
-https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/tarohayashi/popntop_np
+https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/popntop_np
 
 ### VIA用JSON
 - [popntop_np.json](https://github.com/Taro-Hayashi/Pop-n-top-NarrowPitch/releases/download/0.16.7/popntop_np.json)
