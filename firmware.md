@@ -22,7 +22,7 @@ FLASHを押すとダイアログが出てくるのでキーボード裏面のリ
 ![](img/close.png)  
 上手くいかない場合はWindwosの場合と同様にQMK Toolboxを使ってください。  
 ## Windowsの場合
-キーボードを接続した状態でRemapのファームウェアのページにアクセスしてください。  
+Remapのファームウェアのページにアクセスしてください。  
 - [Pop'n Top NarrowPitch - Remap ](https://remap-keys.app/catalog/1fWEWCmfpZw3S95DBEu1/firmware)
 
 使用するファームウェアのDownloadをクリックしてファームウェアをダウンロードしてください。  
