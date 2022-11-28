@@ -110,6 +110,8 @@ USB接続側のファームウェアを個別にインストールして使っ�
 傾斜が高い場合はゴム足を取り両面テープで貼り付けると安定します。
 ![](img/IMG_6573.jpg)  
 
+![](img/tab.jpg)  
+
 ### ファームウェアのコード
 https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/popntop_np
 
