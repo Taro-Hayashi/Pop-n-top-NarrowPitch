@@ -32,8 +32,9 @@
 |-|-|-|-|
 |[キースイッチ](https://shop.yushakobo.jp/products/pg1350)|50|Kailh choc V1|
 |[キーキャップ](https://shop.yushakobo.jp/collections/keycaps/For-Choc-v1)|50|choc V1用、18x17mm以下|
-|[TRRSケーブル](https://shop.yushakobo.jp/products/trrs_cable)|1|||
-|[Type-Cケーブル](https://shop.yushakobo.jp/products/usb_type_a_to_c_cable)|1|||
+|[TRRSケーブル](https://shop.yushakobo.jp/products/trrs_cable)|1||
+|[Type-Cケーブル](https://shop.yushakobo.jp/products/usb_type_a_to_c_cable)|1||
+
 おすすめキーキャップセット
 - [kailhロープロ刻印キーキャップ](https://shop.yushakobo.jp/products/pg1350cap-doubleshot)
 
