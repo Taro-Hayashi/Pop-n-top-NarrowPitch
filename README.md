@@ -30,8 +30,8 @@
 ### キット以外に必要なもの
 |部品名|数|||
 |-|-|-|-|
-|キースイッチ|50|Kailh choc V1|[遊舎工房](https://shop.yushakobo.jp/products/pg1350) / [TALP KEYBOARD](https://talpkeyboard.net/?category_id=620de8df0020fc01abddc60e) / [DailyCraftKeyboard](https://shop.dailycraft.jp/collections/choc-switches)|
-|キーキャップ|50|choc V1用|[遊舎工房](https://shop.yushakobo.jp/collections/keycaps/For-Choc-v1) / [TALP KEYBOARD](https://talpkeyboard.net/?category_id=623833f723c2aa4779e17298) / [DailyCraftKeyboard](https://shop.dailycraft.jp/collections/choc-keycaps)|
+|[キースイッチ](https://shop.yushakobo.jp/products/pg1350)|50|Kailh choc V1|
+|[キーキャップ](https://shop.yushakobo.jp/collections/keycaps/For-Choc-v1)|50|choc V1用|
 |TRRSケーブル|1|||
 |Type-Cケーブル|1|||
 
