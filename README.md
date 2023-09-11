@@ -94,7 +94,7 @@ Remapにファームウェアがあります。
 ![](img/remap3.png)
 
 Remapにアクセスしてキーボードを選択し、キーマップをリセットするかレイアウトを復元してください。
-- [Remap](https://remap-keys.app/)
+- [Remap](https://qmk018.remap-keys.app)
 
 ![](img/remap5.png)
 
