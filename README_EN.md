@@ -71,10 +71,10 @@ https://remap-keys.app/catalog/1fWEWCmfpZw3S95DBEu1/firmware
 https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/tarohayashi/popntop_np
 
 ### JSON
-- [popntop_np.json](https://github.com/Taro-Hayashi/Pop-n-top-NarrowPitch/releases/download/0.16.7/popntop_np.json)
+- [popntop_np.json](https://github.com/Taro-Hayashi/Pop-n-top-NarrowPitch/releases/latest/download/popntop_np.json)
 
 ### Plates data
-- [popntop_np.zip](https://github.com/Taro-Hayashi/Pop-n-top-NarrowPitch/releases/download/0.16.7/popntop_np.zip)
+- [popntop_np.zip](https://github.com/Taro-Hayashi/Pop-n-top-NarrowPitch/releases/latest/download/popntop_np.zip)
 
 ### Store
 - BOOTH https://tarohayashi.booth.pm/items/3754822
