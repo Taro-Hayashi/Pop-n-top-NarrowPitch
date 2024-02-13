@@ -35,9 +35,6 @@
 |[TRRSケーブル](https://shop.yushakobo.jp/products/trrs_cable)|1||
 |[Type-Cケーブル](https://shop.yushakobo.jp/products/usb_type_a_to_c_cable)|1||
 
-おすすめキーキャップセット
-- [kailhロープロ刻印キーキャップ](https://shop.yushakobo.jp/products/pg1350cap-doubleshot)
-
 ### 必要な工具
 |工具名|
 |-|
