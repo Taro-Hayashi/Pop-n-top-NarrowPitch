@@ -6,8 +6,7 @@
 - [Misc](#Misc)
 
 ## Contents
-![](img/IMG_6826.jpg)  
-![](img/IMG_6830.jpg)  
+![](img/IMG_1624.jpg) 
 ||Name|Quantities| |
 |-|-|-|-|
 |1|Mainboards|2||
@@ -34,23 +33,23 @@
 
 ## Soldering
 Clip the top plate and solder the key switch.  
-![](img/IMG_6367.jpg)  
-![](img/IMG_6964.jpg)  
-Do not soak the flux cleaner to avoid breaking the acrylic.  
-![](img/IMG_6556.jpg)  
+![](img/IMG_1631.jpg)  
+![](img/IMG_1650.jpg)  
+Do not soak the flux cleaner to avoid breaking the acrylic.
+![](img/IMG_1642.jpg)  
 Testing. Plug the USB cable into the right hand side.
-![](img/IMG_6399.jpg)  
+![](img/IMG_1665.jpg)  
 
 ## Assembling
 Red circle for small pan head screws and small spacers. Blue circle for middle pan head screws and middle spacers
-![](img/IMG_6560.jpg)  
+![](img/IMG_1679.jpg)  
 Put the middle plates.
-![](img/IMG_6567.jpg)  
-![](img/IMG_6835.jpg)  
+![](img/IMG_1689.jpg)  
+![](img/IMG_1693.jpg)  
 Fasten the back plates with flat head screws, then put rubber feet.
-![](img/IMG_6713.jpg)  
+![](img/IMG_1705.jpg)  
 Thank you for your time.
-![](img/IMG_6576.jpg)  
+![](img/IMG_1715.jpg)  
 
 ## Customise
 Access Remap.  
